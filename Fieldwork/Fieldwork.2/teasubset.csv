@@ -1,0 +1,51 @@
+﻿Location,Site ID,Pre Teabag Weight (g),Post Teabag Weight,Temperature,Imidacloprid Concentration ,Fipronil Concentration,Imidacloprid
+London,1a,1.9,0.72,17.905,0.12,0.024,Not Present
+London,1c,1.9,0.666,17.905,0.12,0.024,Imidacloprid Present 
+London,1e,1.9,0.68,17.905,0.12,0.024,Imidacloprid Present 
+London,2a,1.9,0.725,16.684,,,Not Present
+London,2f,1.9,0.697,16.684,,,Not Present
+London,3c,1.9,0.787,17.987,0.0014,0.0006,Not Present
+London,3f,1.9,0.756,17.987,0.0014,0.0006,Imidacloprid Present 
+London,4a ,1.9,0.835,17.155,0.0006,0.07,Not Present
+London,4f,1.9,0.887,17.155,0.0006,0.07,Not Present
+London,5a,1.9,0.772,13.662,0.012,0.0023,Not Present
+London,5c,1.9,0.687,13.662,0.012,0.0023,Not Present
+London,5f,1.9,0.845,13.662,0.012,0.0023,Not Present
+London,6a,1.9,0.66,17.3,,,Not Present
+London,6b,1.9,0.693,17.3,,,Not Present
+London,6e,1.9,0.733,17.3,,,Not Present
+Kennet,7a ,1.9,0.915,12.763,0.0019,0.0004,Not Present
+Kennet,7c,1.9,0.777,12.763,0.0019,0.0004,Not Present
+Kennet,7f,1.9,0.84,12.763,0.0019,0.0004,Not Present
+Kennet,8a ,1.9,0.895,13.674,0.0019,0.0004,Not Present
+Kennet,8f ,1.9,0.869,13.674,0.0019,0.0004,Not Present
+Kennet,9b,1.9,0.827,12.793,0.0019,0.0004,Not Present
+Kennet,9c,1.9,0.843,12.793,0.0019,0.0004,Not Present
+Kennet,9f,1.9,0.848,12.793,0.0019,0.0004,Not Present
+Kennet,10a ,1.9,0.862,12.811,0.0019,0.0004,Not Present
+Kennet,10c,1.9,0.859,12.811,0.0019,0.0004,Imidacloprid Present 
+Kennet,10f,1.9,0.83,12.811,0.0019,0.0004,Not Present
+Kennet,11a,1.9,0.841,13.75,0.0019,0.0004,Not Present
+Kennet,11c,1.9,0.85,13.75,0.0019,0.0004,Not Present
+Kennet,11f,1.9,0.86,13.75,0.0019,0.0004,Not Present
+Kennet,12a,1.9,0.825,14.988,0.0019,0.0004,Not Present
+Kennet,12c,1.9,0.792,14.988,0.0019,0.0004,Not Present
+Kennet,12f,1.9,0.786,14.988,0.0019,0.0004,Not Present
+Norfolk,13a,1.9,0.895,16.239,0.0031,0.0021,Not Present
+Norfolk,13c,1.9,0.83,16.239,0.0031,0.0021,Not Present
+Norfolk,13f,1.9,0.777,16.239,0.0031,0.0021,Not Present
+Norfolk,14a,1.9,0.819,15.043,0.0031,0.0021,Not Present
+Norfolk,14c,1.9,0.778,15.043,0.0031,0.0021,Not Present
+Norfolk,14f,1.9,0.794,15.043,0.0031,0.0021,Not Present
+Norfolk,15a,1.9,0.771,17.003,0.0031,0.0021,Not Present
+Norfolk,15c,1.9,0.778,17.003,0.0031,0.0021,Not Present
+Norfolk,15f,1.9,0.754,17.003,0.0031,0.0021,Not Present
+Norfolk,16a,1.9,0.915,14.496,,,Not Present
+Norfolk,16c,1.9,,14.496,,,Not Present
+Norfolk,16f,1.9,0.822,14.496,,,Not Present
+Norfolk,17a,1.9,0.773,16.058,,,Not Present
+Norfolk,17f,1.9,0.929,16.058,,,Not Present
+Norfolk,18a,1.9,0.765,13.317,,,Not Present
+Norfolk,18c,1.9,0.824,13.317,,,Not Present
+Norfolk,18f,1.9,0.791,13.317,,,Not Present
+,,,,,,,Not Present
