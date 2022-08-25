@@ -1,0 +1,8 @@
+Effect,DFn,DFd,F,p,p<.05,ges
+Temperature,2,429,21.713,1.04e-9,*,0.092
+Chemical,5,429,40.712,2.96e-34,*,0.322
+Concentration,2,429,26.106,2e-11,*,0.109
+Temperature:Chemical,10,429,5.198,3.28e-7,*,0.108
+Temperature:Concentration,4,429,6.591,3.73e-5,*,0.058
+Chemical:Concentration,4,429,20.265,2.65e-15,*,0.159
+Temperature:Chemical:Concentration,8,429,4.131,9.1e-5,*,0.072

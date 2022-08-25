@@ -1,0 +1,73 @@
+,Gam.ID,Trial,Distance.cm,cont,Log.Distance,Total Area
+1,25,Control 5¼C,58.8,Control,4.074141855,48.16
+2,26,Control 5¼C,60.7,Control,4.105943698,50.243
+3,27,Control 5¼C,40.2,Control,3.693866996,51.545
+4,28,Control 5¼C,51.9,Control,3.94931879,41.554
+5,29,Control 5¼C,35.9,Control,3.580737295,35.879
+6,30,Control 5¼C,7.3,Control,1.987874348,2.9
+7,31,Imidacloprid 5¼C,65.3,Exp,4.178992036,51.74
+8,32,Imidacloprid 5¼C,45.3,Exp,3.813307032,36.317
+9,33,Imidacloprid 5¼C,58.7,Exp,4.072439727,47.225
+10,34,Imidacloprid 5¼C,66.5,Exp,4.197201948,41.542
+11,35,Imidacloprid 5¼C,54.7,Exp,4.001863709,35.38
+12,36,Imidacloprid 5¼C,54.3,Exp,3.994524227,39.628
+13,1,Control 10¼C,55.7,Control,4.019980147,55.165
+14,2,Control 10¼C,50,Control,3.912023005,50.305
+15,3,Control 10¼C,45.3,Control,3.813307032,45.912
+16,4,Control 10¼C,58.7,Control,4.072439727,44.447
+17,5,Control 10¼C,69.3,Control,4.238444906,47.047
+18,6,Control 10¼C,56.1,Control,4.027135813,43.035
+19,7,Imidacloprid 10¼C,54.4,Exp,3.996364154,47.594
+20,8,Imidacloprid 10¼C,50.3,Exp,3.918005077,36.364
+21,9,Imidacloprid 10¼C,51.9,Exp,3.94931879,40.616
+22,10,Imidacloprid 10¼C,59.7,Exp,4.08933202,46.91
+23,11,Imidacloprid 10¼C,39,Exp,3.663561646,34.084
+24,12,Imidacloprid 10¼C,52.9,Exp,3.968403339,44.679
+25,13,Control 15¼C,51.2,Control,3.935739532,44.574
+26,14,Control 15¼C,57.9,Control,4.058717385,42.828
+27,15,Control 15¼C,50.7,Control,3.925925911,35.124
+28,16,Control 15¼C,45.1,Control,3.808882247,29.181
+29,17,Control 15¼C,39.6,Control,3.678829118,22.021
+30,18,Control 15¼C,52,Control,3.951243719,43.909
+31,19,Imidacloprid 15¼C,53.1,Exp,3.972176928,42.535
+32,20,Imidacloprid 15¼C,25.8,Exp,3.250374492,31.102
+33,21,Imidacloprid 15¼C,55.8,Exp,4.021773869,50.896
+34,22,Imidacloprid 15¼C,59.7,Exp,4.08933202,47.403
+35,23,Imidacloprid 15¼C,56.9,Exp,4.041295341,43.388
+36,24,Imidacloprid 15¼C,49.6,Exp,3.903990834,47.938
+49,85,P Mix 1 5¼C ,41.1,Exp,,
+50,86,P Mix 1 5¼C ,25.4,Exp,,
+51,87,P Mix 1 5¼C ,25.7,Exp,,
+52,88,P Mix 1 5¼C ,24,Exp,,
+53,89,P Mix 1 5¼C ,48,Exp,,
+54,90,P Mix 1 5¼C ,22.6,Exp,,
+37,73,P Mix 1 10¼C,27.6,Exp,,
+38,74,P Mix 1 10¼C,0,Exp,,
+39,75,P Mix 1 10¼C,21.5,Exp,,
+40,76,P Mix 1 10¼C,41,Exp,,
+41,77,P Mix 1 10¼C,29.1,Exp,,
+42,78,P Mix 1 10¼C,36.5,Exp,,
+43,79,P Mix 1 15¼C,0,Exp,,
+44,80,P Mix 1 15¼C,0.5,Exp,,
+45,81,P Mix 1 15¼C,0,Exp,,
+46,82,P Mix 1 15¼C,0,Exp,,
+47,83,P Mix 1 15¼C,0,Exp,,
+48,84,P Mix 1 15¼C,0,Exp,,
+67,103,P Mix 2 5¼C,15.9,Exp,,
+68,104,P Mix 2 5¼C,9.7,Exp,,
+69,105,P Mix 2 5¼C,24.4,Exp,,
+70,106,P Mix 2 5¼C,20.9,Exp,,
+71,107,P Mix 2 5¼C,23.3,Exp,,
+72,108,P Mix 2 5¼C,32.3,Exp,,
+55,91,P Mix 2 10¼C ,9.8,Exp,,
+56,92,P Mix 2 10¼C ,35.1,Exp,,
+57,93,P Mix 2 10¼C ,23.7,Exp,,
+58,94,P Mix 2 10¼C ,29.2,Exp,,
+59,95,P Mix 2 10¼C ,29.4,Exp,,
+60,96,P Mix 2 10¼C ,31.1,Exp,,
+61,97,P Mix 2 15¼C,0,Exp,,
+62,98,P Mix 2 15¼C,0.5,Exp,,
+63,99,P Mix 2 15¼C,0.4,Exp,,
+64,100,P Mix 2 15¼C,3.8,Exp,,
+65,101,P Mix 2 15¼C,0,Exp,,
+66,102,P Mix 2 15¼C,0,Exp,,

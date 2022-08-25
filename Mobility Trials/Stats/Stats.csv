@@ -1,0 +1,469 @@
+﻿Gam ID ,Treatment,Temperature,Chemical,Chem.conc,Concentration,Total Distance ,Replicate
+25,Control 5    ,5,Control,Control,0,58.8,1
+26,Control 5    ,5,Control,Control,0,60.7,2
+27,Control 5    ,5,Control,Control,0,40.2,3
+28,Control 5    ,5,Control,Control,0,51.9,4
+29,Control 5    ,5,Control,Control,0,35.9,5
+30,Control 5    ,5,Control,Control,0,7.3,6
+109,Control 5    ,5,Control,Control,0,46.3,7
+110,Control 5    ,5,Control,Control,0,50.3,8
+111,Control 5    ,5,Control,Control,0,55.3,9
+112,Control 5    ,5,Control,Control,0,37.2,10
+113,Control 5    ,5,Control,Control,0,34.4,11
+114,Control 5    ,5,Control,Control,0,46.8,12
+31,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,65.3,1
+32,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,45.3,2
+33,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,58.7,3
+34,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,66.5,4
+35,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,54.7,5
+36,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,54.3,6
+115,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,39.7,7
+116,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,28.8,8
+117,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,37.1,9
+118,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,36,10
+119,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,14.2,11
+120,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 100,100,44.4,12
+1,Control 10    ,10,Control,Control,0,55.7,1
+2,Control 10    ,10,Control,Control,0,50,2
+3,Control 10    ,10,Control,Control,0,45.3,3
+4,Control 10    ,10,Control,Control,0,58.7,4
+5,Control 10    ,10,Control,Control,0,69.3,5
+6,Control 10    ,10,Control,Control,0,56.1,6
+133,Control 10    ,10,Control,Control,0,50.6,7
+134,Control 10    ,10,Control,Control,0,53.4,8
+135,Control 10    ,10,Control,Control,0,37.8,9
+136,Control 10    ,10,Control,Control,0,39.9,10
+137,Control 10    ,10,Control,Control,0,50.2,11
+138,Control 10    ,10,Control,Control,0,46,12
+7,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,54.4,1
+8,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,50.3,2
+9,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,51.9,3
+10,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,59.7,4
+11,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,39,5
+12,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,52.9,6
+139,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,23.8,7
+140,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,22.3,8
+141,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,52.9,9
+142,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,24.1,10
+143,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,38.3,11
+144,Imidacloprid 10    ,10,Imidacloprid,Imidacloprid 100,100,35.8,12
+13,Control 15    ,15,Control,Control,0,51.2,1
+14,Control 15    ,15,Control,Control,0,57.9,2
+15,Control 15    ,15,Control,Control,0,50.7,3
+16,Control 15    ,15,Control,Control,0,45.1,4
+17,Control 15    ,15,Control,Control,0,39.6,5
+18,Control 15    ,15,Control,Control,0,52,6
+157,Control 15    ,15,Control,Control,0,46.5,7
+158,Control 15    ,15,Control,Control,0,42.4,8
+159,Control 15    ,15,Control,Control,0,20.6,9
+160,Control 15    ,15,Control,Control,0,29.2,10
+161,Control 15    ,15,Control,Control,0,27.7,11
+162,Control 15    ,15,Control,Control,0,23.5,12
+19,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,53.1,1
+20,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,25.8,2
+21,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,55.8,3
+22,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,59.7,4
+23,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,56.9,5
+24,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,49.6,6
+163,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,50.2,7
+164,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,39.4,8
+165,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,32.9,9
+166,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,34.7,10
+167,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,34.2,11
+168,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 100,100,52,12
+73,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,27.6,1
+74,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,0,2
+75,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,21.5,3
+76,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,41,4
+77,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,29.1,5
+78,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,36.5,6
+145,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,11.3,7
+146,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,11.1,8
+147,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,6.2,9
+148,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,25.2,10
+149,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,20.9,11
+150,P Mix 1 10    ,10,P Mix 1,P Mix 1 100,100,17.4,12
+79,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,0,1
+80,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,0.5,2
+81,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,0,3
+82,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,0,4
+83,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,0,5
+84,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,0,6
+169,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,5.3,7
+170,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,4.9,8
+171,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,7.7,9
+172,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,7.9,10
+173,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,5,11
+174,P Mix 1 15    ,15,P Mix 1,P Mix 1 100,100,6,12
+85,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,41.1,1
+86,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,25.4,2
+87,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,25.7,3
+88,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,24,4
+89,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,48,5
+90,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,22.6,6
+121,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,29.9,7
+122,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,19,8
+123,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,35.7,9
+124,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,33.9,10
+125,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,31.4,11
+126,P Mix 1 5     ,5,P Mix 1,P Mix 1 100,100,31.2,12
+91,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,9.8,1
+92,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,35.1,2
+93,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,23.7,3
+94,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,29.2,4
+95,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,29.4,5
+96,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,31.1,6
+151,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,26.1,7
+152,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,25,8
+153,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,19.3,9
+154,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,6.1,10
+155,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,9.6,11
+156,P Mix 2 10     ,10,P Mix 2,P Mix 2 100,100,15.3,12
+97,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,0,1
+98,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,0.5,2
+99,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,0.4,3
+100,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,3.8,4
+101,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,0,5
+102,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,0,6
+175,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,4.6,7
+176,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,5.7,8
+177,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,5.5,9
+178,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,4.8,10
+179,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,8.4,11
+180,P Mix 2 15    ,15,P Mix 2,P Mix 2 100,100,6.6,12
+103,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,15.9,1
+104,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,9.7,2
+105,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,24.4,3
+106,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,20.9,4
+107,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,23.3,5
+108,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,32.3,6
+127,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,31.8,7
+128,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,30.8,8
+129,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,35.6,9
+130,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,30.4,10
+131,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,20.3,11
+132,P Mix 2 5    ,5,P Mix 2,P Mix 2 100,100,23.2,12
+181,Fipronil 5     ,5,Fipronil,Fipronil 100,100,19.2,1
+182,Fipronil 5     ,5,Fipronil,Fipronil 100,100,35.6,2
+183,Fipronil 5     ,5,Fipronil,Fipronil 100,100,37.1,3
+184,Fipronil 5     ,5,Fipronil,Fipronil 100,100,28.5,4
+185,Fipronil 5     ,5,Fipronil,Fipronil 100,100,1.9,5
+186,Fipronil 5     ,5,Fipronil,Fipronil 100,100,39.2,6
+187,Fipronil 5     ,5,Fipronil,Fipronil 100,100,34,7
+188,Fipronil 5     ,5,Fipronil,Fipronil 100,100,2.4,8
+189,Fipronil 5     ,5,Fipronil,Fipronil 100,100,14.7,9
+190,Fipronil 5     ,5,Fipronil,Fipronil 100,100,54.9,10
+191,Fipronil 5     ,5,Fipronil,Fipronil 100,100,19.3,11
+192,Fipronil 5     ,5,Fipronil,Fipronil 100,100,22.8,12
+193,Fipronil 10    ,10,Fipronil,Fipronil 100,100,0.9,1
+194,Fipronil 10    ,10,Fipronil,Fipronil 100,100,14.4,2
+195,Fipronil 10    ,10,Fipronil,Fipronil 100,100,8.2,3
+196,Fipronil 10    ,10,Fipronil,Fipronil 100,100,7.3,4
+197,Fipronil 10    ,10,Fipronil,Fipronil 100,100,0.8,5
+198,Fipronil 10    ,10,Fipronil,Fipronil 100,100,0.6,6
+199,Fipronil 10    ,10,Fipronil,Fipronil 100,100,4.6,7
+200,Fipronil 10    ,10,Fipronil,Fipronil 100,100,18.8,8
+201,Fipronil 10    ,10,Fipronil,Fipronil 100,100,5.5,9
+202,Fipronil 10    ,10,Fipronil,Fipronil 100,100,0.8,10
+203,Fipronil 10    ,10,Fipronil,Fipronil 100,100,5.7,11
+204,Fipronil 10    ,10,Fipronil,Fipronil 100,100,2.6,12
+205,Fipronil 15     ,15,Fipronil,Fipronil 100,100,0.5,1
+206,Fipronil 15     ,15,Fipronil,Fipronil 100,100,4.2,2
+207,Fipronil 15     ,15,Fipronil,Fipronil 100,100,4.8,3
+208,Fipronil 15     ,15,Fipronil,Fipronil 100,100,8.4,4
+209,Fipronil 15     ,15,Fipronil,Fipronil 100,100,7.9,5
+210,Fipronil 15     ,15,Fipronil,Fipronil 100,100,4.9,6
+211,Fipronil 15     ,15,Fipronil,Fipronil 100,100,3.2,7
+212,Fipronil 15     ,15,Fipronil,Fipronil 100,100,4,8
+213,Fipronil 15     ,15,Fipronil,Fipronil 100,100,3.4,9
+214,Fipronil 15     ,15,Fipronil,Fipronil 100,100,4.9,10
+215,Fipronil 15     ,15,Fipronil,Fipronil 100,100,5.1,11
+216,Fipronil 15     ,15,Fipronil,Fipronil 100,100,3.3,12
+217,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,36.2,1
+218,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,54.4,2
+219,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,34.8,3
+220,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,8.4,4
+221,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,17.5,5
+222,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,32.1,6
+223,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,39.2,7
+224,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,34.9,8
+225,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,41,9
+226,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,25.6,10
+227,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,21.3,11
+228,Fluralaner 5     ,5,Fluralaner,Fluralaner 100,100,34.8,12
+229,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,13.8,1
+230,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,42.7,2
+231,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,30.8,3
+232,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,45.2,4
+233,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,33.6,5
+234,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,28.5,6
+235,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,51.7,7
+236,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,45.7,8
+237,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,40.9,9
+238,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,32.5,10
+239,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,34.9,11
+240,Fluralaner 10     ,10,Fluralaner,Fluralaner 100,100,14.8,12
+241,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,35.1,1
+242,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,40.7,2
+243,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,48.4,3
+244,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,43.5,4
+245,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,3,5
+246,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,15.9,6
+247,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,39.2,7
+248,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,27.1,8
+249,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,23.3,9
+250,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,18.2,10
+251,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,21,11
+252,Fluralaner 15     ,15,Fluralaner,Fluralaner 100,100,32,12
+253,Selamectin 5    ,5,Selamectin,Selamectin 100,100,33.3,1
+254,Selamectin 5    ,5,Selamectin,Selamectin 100,100,21.2,2
+255,Selamectin 5    ,5,Selamectin,Selamectin 100,100,38.1,3
+256,Selamectin 5    ,5,Selamectin,Selamectin 100,100,8.2,4
+257,Selamectin 5    ,5,Selamectin,Selamectin 100,100,24.7,5
+258,Selamectin 5    ,5,Selamectin,Selamectin 100,100,40.1,6
+259,Selamectin 5    ,5,Selamectin,Selamectin 100,100,16.6,7
+260,Selamectin 5    ,5,Selamectin,Selamectin 100,100,24.8,8
+261,Selamectin 5    ,5,Selamectin,Selamectin 100,100,19.2,9
+262,Selamectin 5    ,5,Selamectin,Selamectin 100,100,12.7,10
+263,Selamectin 5    ,5,Selamectin,Selamectin 100,100,18.2,11
+264,Selamectin 5    ,5,Selamectin,Selamectin 100,100,4.8,12
+265,Selamectin 10    ,10,Selamectin,Selamectin 100,100,42.1,1
+266,Selamectin 10    ,10,Selamectin,Selamectin 100,100,14.8,2
+267,Selamectin 10    ,10,Selamectin,Selamectin 100,100,32.2,3
+268,Selamectin 10    ,10,Selamectin,Selamectin 100,100,31.3,4
+269,Selamectin 10    ,10,Selamectin,Selamectin 100,100,20.2,5
+270,Selamectin 10    ,10,Selamectin,Selamectin 100,100,25.5,6
+271,Selamectin 10    ,10,Selamectin,Selamectin 100,100,31.8,7
+272,Selamectin 10    ,10,Selamectin,Selamectin 100,100,57,8
+273,Selamectin 10    ,10,Selamectin,Selamectin 100,100,30.6,9
+274,Selamectin 10    ,10,Selamectin,Selamectin 100,100,30.2,10
+275,Selamectin 10    ,10,Selamectin,Selamectin 100,100,30.5,11
+276,Selamectin 10    ,10,Selamectin,Selamectin 100,100,57.6,12
+277,Selamectin 15     ,15,Selamectin,Selamectin 100,100,21,1
+278,Selamectin 15     ,15,Selamectin,Selamectin 100,100,11.2,2
+279,Selamectin 15     ,15,Selamectin,Selamectin 100,100,23.1,3
+280,Selamectin 15     ,15,Selamectin,Selamectin 100,100,35.9,4
+281,Selamectin 15     ,15,Selamectin,Selamectin 100,100,24.2,5
+282,Selamectin 15     ,15,Selamectin,Selamectin 100,100,41.5,6
+283,Selamectin 15     ,15,Selamectin,Selamectin 100,100,29.2,7
+284,Selamectin 15     ,15,Selamectin,Selamectin 100,100,35,8
+285,Selamectin 15     ,15,Selamectin,Selamectin 100,100,38.9,9
+286,Selamectin 15     ,15,Selamectin,Selamectin 100,100,29.8,10
+287,Selamectin 15     ,15,Selamectin,Selamectin 100,100,25.2,11
+288,Selamectin 15     ,15,Selamectin,Selamectin 100,100,19.8,12
+289,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,44,1
+290,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,34.8,2
+291,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,54.6,3
+292,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,40.8,4
+293,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,48.8,5
+294,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,53.1,6
+295,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,36.6,7
+296,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,37.2,8
+297,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,32,9
+298,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,53.5,10
+299,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,41.8,11
+300,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 0.1,0.1,43.2,12
+301,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,38.5,1
+302,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,35,2
+303,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,46.2,3
+304,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,32.1,4
+305,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,52.6,5
+306,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,29.6,6
+307,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,26.1,7
+308,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,29.9,8
+309,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,32.8,9
+310,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,26.5,10
+311,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,26.1,11
+312,Imidacloprid 10,10,Imidacloprid,Imidacloprid 0.1,0.1,20.8,12
+313,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,28.3,1
+314,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,24.7,2
+315,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,30.2,3
+316,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,39,4
+317,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,37,5
+318,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,38.7,6
+319,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,52.3,7
+320,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,31.4,8
+321,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,33.9,9
+322,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,24.2,10
+323,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,23.4,11
+324,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 0.1,0.1,30,12
+325,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,40.5,1
+326,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,35.8,2
+327,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,43.9,3
+328,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,40.2,4
+329,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,39.5,5
+330,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,31.2,6
+331,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,48.7,7
+332,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,53.1,8
+333,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,45.7,9
+334,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,42.4,10
+335,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,41.3,11
+336,Imidacloprid 5    ,5,Imidacloprid,Imidacloprid 10,10,45.7,12
+337,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,50.9,1
+338,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,43.4,2
+339,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,46.4,3
+340,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,55.7,4
+341,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,58.1,5
+342,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,29.9,6
+343,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,33.8,7
+344,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,51,8
+345,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,39.8,9
+346,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,34.6,10
+347,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,30.9,11
+348,Imidacloprid 10,10,Imidacloprid,Imidacloprid 10,10,37,12
+349,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,29.5,1
+350,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,28.3,2
+351,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,27.4,3
+352,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,33,4
+353,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,28.3,5
+354,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,30.1,6
+355,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,35.8,7
+356,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,24.9,8
+357,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,39.6,9
+358,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,46.8,10
+359,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,35.2,11
+360,Imidacloprid 15    ,15,Imidacloprid,Imidacloprid 10,10,39.5,12
+361,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,23.2,1
+362,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,32.2,2
+363,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,40.5,3
+364,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,35.7,4
+365,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,46.7,5
+366,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,38.8,6
+367,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,32.5,7
+368,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,31.3,8
+369,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,33.6,9
+370,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,34.5,10
+371,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,30.6,11
+372,P Mix 1 5     ,5,P Mix 1,P Mix 1 0.1,0.1,26.4,12
+373,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,46.4,1
+374,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,54.4,2
+375,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,42.5,3
+376,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,54.4,4
+377,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,32.7,5
+378,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,38,6
+379,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,52.2,7
+380,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,53.7,8
+381,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,33.8,9
+382,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,41.4,10
+383,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,51.5,11
+384,P Mix 1 10    ,10,P Mix 1,P Mix 1 0.1,0.1,27.8,12
+385,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,42.6,1
+386,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,13,2
+387,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,50.2,3
+388,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,53.5,4
+389,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,37.2,5
+390,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,44.4,6
+391,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,37.4,7
+392,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,30.3,8
+393,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,41.2,9
+394,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,8.2,10
+395,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,46,11
+396,P Mix 1 15    ,15,P Mix 1,P Mix 1 0.1,0.1,39.1,12
+397,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,36.4,1
+398,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,37.7,2
+399,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,2.4,3
+400,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,51.7,4
+401,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,32.8,5
+402,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,21.3,6
+403,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,33.6,7
+404,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,9.5,8
+405,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,25,9
+406,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,9.5,10
+407,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,50.5,11
+408,P Mix 1 5     ,5,P Mix 1,P Mix 1 10,10,10.5,12
+409,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,23.2,1
+410,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,35.4,2
+411,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,51.5,3
+412,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,41.4,4
+413,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,44.2,5
+414,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,32.3,6
+415,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,38.3,7
+416,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,41.9,8
+417,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,16.7,9
+418,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,23,10
+419,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,38.8,11
+420,P Mix 1 10    ,10,P Mix 1,P Mix 1 10,10,38.3,12
+421,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,21.2,1
+422,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,36.2,2
+423,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,27.1,3
+424,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,46.2,4
+425,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,23.6,5
+426,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,30.6,6
+427,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,29.3,7
+428,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,26.7,8
+429,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,22.1,9
+430,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,16.5,10
+431,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,18.1,11
+432,P Mix 1 15    ,15,P Mix 1,P Mix 1 10,10,16.2,12
+433,Fipronil 5     ,5,Fipronil,Fipronil 10,10,36.2,1
+434,Fipronil 5     ,5,Fipronil,Fipronil 10,10,0.8,2
+435,Fipronil 5     ,5,Fipronil,Fipronil 10,10,11.9,3
+436,Fipronil 5     ,5,Fipronil,Fipronil 10,10,16.3,4
+437,Fipronil 5     ,5,Fipronil,Fipronil 10,10,33.2,5
+438,Fipronil 5     ,5,Fipronil,Fipronil 10,10,44.4,6
+439,Fipronil 5     ,5,Fipronil,Fipronil 10,10,18.8,7
+440,Fipronil 5     ,5,Fipronil,Fipronil 10,10,21.8,8
+441,Fipronil 5     ,5,Fipronil,Fipronil 10,10,27.7,9
+442,Fipronil 5     ,5,Fipronil,Fipronil 10,10,25,10
+443,Fipronil 5     ,5,Fipronil,Fipronil 10,10,35.2,11
+444,Fipronil 5     ,5,Fipronil,Fipronil 10,10,16.1,12
+445,Fipronil 10    ,10,Fipronil,Fipronil 10,10,13,1
+446,Fipronil 10    ,10,Fipronil,Fipronil 10,10,40.3,2
+447,Fipronil 10    ,10,Fipronil,Fipronil 10,10,33,3
+448,Fipronil 10    ,10,Fipronil,Fipronil 10,10,39.5,4
+449,Fipronil 10    ,10,Fipronil,Fipronil 10,10,2.9,5
+450,Fipronil 10    ,10,Fipronil,Fipronil 10,10,30.6,6
+451,Fipronil 10    ,10,Fipronil,Fipronil 10,10,26.2,7
+452,Fipronil 10    ,10,Fipronil,Fipronil 10,10,21.3,8
+453,Fipronil 10    ,10,Fipronil,Fipronil 10,10,23,9
+454,Fipronil 10    ,10,Fipronil,Fipronil 10,10,32.6,10
+455,Fipronil 10    ,10,Fipronil,Fipronil 10,10,2.2,11
+456,Fipronil 10    ,10,Fipronil,Fipronil 10,10,22.2,12
+469,Fipronil 15     ,15,Fipronil,Fipronil 10,10,32.9,1
+470,Fipronil 15     ,15,Fipronil,Fipronil 10,10,23.1,2
+471,Fipronil 15     ,15,Fipronil,Fipronil 10,10,26.9,3
+472,Fipronil 15     ,15,Fipronil,Fipronil 10,10,22,4
+473,Fipronil 15     ,15,Fipronil,Fipronil 10,10,30.5,5
+474,Fipronil 15     ,15,Fipronil,Fipronil 10,10,10.7,6
+475,Fipronil 15     ,15,Fipronil,Fipronil 10,10,2.1,7
+476,Fipronil 15     ,15,Fipronil,Fipronil 10,10,8.1,8
+477,Fipronil 15     ,15,Fipronil,Fipronil 10,10,14,9
+478,Fipronil 15     ,15,Fipronil,Fipronil 10,10,15.5,10
+479,Fipronil 15     ,15,Fipronil,Fipronil 10,10,10.9,11
+480,Fipronil 15     ,15,Fipronil,Fipronil 10,10,2,12
+481,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,34.9,1
+482,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,35,2
+483,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,24.9,3
+484,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,23.7,4
+485,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,45.8,5
+486,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,6.9,6
+487,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,24.9,7
+488,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,38,8
+489,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,42.2,9
+490,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,40.5,10
+491,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,14.5,11
+492,Fipronil 5     ,5,Fipronil,Fipronil 0.1,0.1,34.1,12
+493,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,4.8,1
+494,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,46.3,2
+495,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,18.5,3
+496,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,29.6,4
+497,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,51.5,5
+498,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,32.4,6
+499,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,26.2,7
+500,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,16.4,8
+501,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,36,9
+502,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,41,10
+503,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,31.3,11
+504,Fipronil 10    ,10,Fipronil,Fipronil 0.1,0.1,29.4,12
+505,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,25.1,1
+506,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,41.4,2
+507,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,34.6,3
+508,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,45.4,4
+509,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,42.2,5
+510,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,31.9,6
+511,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,32.5,7
+512,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,31.2,8
+513,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,23.4,9
+514,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,17.2,10
+515,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,25.2,11
+516,Fipronil 15     ,15,Fipronil,Fipronil 0.1,0.1,47,12
