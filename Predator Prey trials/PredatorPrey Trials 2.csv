@@ -1,0 +1,49 @@
+﻿Dragonfly ID,Trial ,Temperature ,Treatment,Prey eaten,Predator Head Width
+1,5ºC Control,5,Control,8,0.6
+2,5ºC Control,5,Control,2,0.8
+3,5ºC Control,5,Control,3,0.8
+4,5ºC Control,5,Control,6,0.6
+5,5ºC Control,5,Control,4,0.9
+6,5ºC Control,5,Control,5,0.5
+7,15ºC Control,15,Control,6,0.6
+8,15ºC Control,15,Control,8,0.7
+9,15ºC Control,15,Control,5,0.8
+10,15ºC Control,15,Control,4,0.7
+11,15ºC Control,15,Control,3,0.6
+12,15ºC Control,15,Control,6,0.8
+13,5ºC Imidacloprid,5,Imidacloprid,1,0.6
+14,5ºC Imidacloprid,5,Imidacloprid,1,0.7
+15,5ºC Imidacloprid,5,Imidacloprid,1,0.5
+16,5ºC Imidacloprid,5,Imidacloprid,0,0.6
+17,5ºC Imidacloprid,5,Imidacloprid,1,0.7
+18,5ºC Imidacloprid,5,Imidacloprid,0,0.9
+19,5ºC Fipronil,5,Fipronil,3,0.6
+20,5ºC Fipronil,5,Fipronil,2,0.8
+21,5ºC Fipronil,5,Fipronil,2,0.8
+22,5ºC Fipronil,5,Fipronil,5,0.6
+23,5ºC Fipronil,5,Fipronil,2,0.9
+24,5ºC Fipronil,5,Fipronil,2,0.5
+25,15ºC Imidacloprid,15,Imidacloprid,6,0.7
+26,15ºC Imidacloprid,15,Imidacloprid,10,0.5
+27,15ºC Imidacloprid,15,Imidacloprid,10,0.6
+28,15ºC Imidacloprid,15,Imidacloprid,12,0.6
+29,15ºC Imidacloprid,15,Imidacloprid,6,0.7
+30,15ºC Imidacloprid,15,Imidacloprid,10,0.6
+31,15ºC Fipronil,15,Fipronil,2,0.8
+32,15ºC Fipronil,15,Fipronil,2,0.6
+33,15ºC Fipronil,15,Fipronil,7,0.7
+34,15ºC Fipronil,15,Fipronil,6,0.6
+35,15ºC Fipronil,15,Fipronil,5,0.7
+36,15ºC Fipronil,15,Fipronil,4,0.6
+37,15ºC P Mix,15,P Mix,12,0.7
+38,15ºC P Mix,15,P Mix,13,0.6
+39,15ºC P Mix,15,P Mix,12,0.6
+40,15ºC P Mix,15,P Mix,11,0.7
+41,15ºC P Mix,15,P Mix,12,0.7
+42,15ºC P Mix,15,P Mix,12,0.7
+43,5ºC P Mix ,5,P Mix,4,
+44,5ºC P Mix ,5,P Mix,5,
+45,5ºC P Mix ,5,P Mix,8,
+46,5ºC P Mix ,5,P Mix,7,
+47,5ºC P Mix ,5,P Mix,12,
+48,5ºC P Mix ,5,P Mix,9,
