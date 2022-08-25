@@ -1,0 +1,30 @@
+﻿Treatment,Concentration (µg/L),Temperature ºC,Mortality 
+Imidacloprid,0.1,15,66
+Imidacloprid,1,15,50
+Imidacloprid,10,15,97
+Imidacloprid,100,15,87
+Imidacloprid,0,5,0
+Imidacloprid,0.1,5,0
+Imidacloprid,1,5,0
+Imidacloprid,10,5,3
+Imidacloprid,100,5,7
+Imidacloprid,1000,5,30
+Imidacloprid,10000,5,40
+Imidacloprid,50000,5,43
+Imidacloprid,100000,5,77
+Fluralaner,1,5,3
+Fluralaner,10,5,10
+Fluralaner,100,5,10
+Fluralaner,1000,5,10
+Fipronil ,1,5,20
+Fipronil ,10,5,70
+Fipronil ,100,5,90
+Fipronil ,1000,5,100
+Fipronil ,10000,5,100
+Fipronil ,100000,5,100
+Selamectin ,1,5,20
+Selamectin ,10,5,90
+Selamectin ,100,5,90
+Selamectin ,1000,5,100
+Selamectin ,10000,5,100
+Selamectin ,100000,5,100

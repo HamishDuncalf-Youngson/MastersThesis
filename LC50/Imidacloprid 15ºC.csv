@@ -1,0 +1,5 @@
+﻿Treatment,Concentration,Temperature ºC,Mortality ,Total,Dead
+Imidacloprid,0.1,15,66,10,6.6
+Imidacloprid,1,15,50,10,5
+Imidacloprid,10,15,97,10,9.7
+Imidacloprid,100,15,87,10,8.7

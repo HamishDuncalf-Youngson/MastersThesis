@@ -1,0 +1,7 @@
+﻿Treatment,Concentration,Temperature ºC,Mortality ,Total ,Dead
+Selamectin ,1,5,20,10,2
+Selamectin ,10,5,90,10,9
+Selamectin ,100,5,90,10,9
+Selamectin ,1000,5,100,10,10
+Selamectin ,10000,5,100,10,10
+Selamectin ,100000,5,100,10,10

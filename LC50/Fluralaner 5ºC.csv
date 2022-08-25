@@ -1,0 +1,8 @@
+﻿Treatment,Concentration,Temperature ºC,Mortality ,Total ,Dead
+Fluralaner,1,5,3,10,0.3
+Fluralaner,10,5,10,10,1
+Fluralaner,100,5,10,10,1
+Fluralaner,1000,5,10,10,1
+Fluralaner,10000,5,50,10,5
+Fluralaner,50000,5,100,10,10
+Fluralaner,100000,5,100,10,10
