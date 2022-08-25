@@ -1,0 +1,25 @@
+Temperature,Invertebrates,term,.y.,group1,group2,p.adj,p.adj.signif
+15,No ,Treatment,Teak,Control,Fipronil,1,ns
+15,No ,Treatment,Teak,Control,Imidacloprid,0.37905930105336716,ns
+15,No ,Treatment,Teak,Control,P Mix,1.5965391537725232e-6,****
+15,No ,Treatment,Teak,Fipronil,Imidacloprid,0.24051985098587764,ns
+15,No ,Treatment,Teak,Fipronil,P Mix,6.849004020626296e-7,****
+15,No ,Treatment,Teak,Imidacloprid,P Mix,0.002076436080801358,**
+15,Yes,Treatment,Teak,Control,Fipronil,0.013746423999494325,*
+15,Yes,Treatment,Teak,Control,Imidacloprid,1.3011883723300266e-6,****
+15,Yes,Treatment,Teak,Control,P Mix,0.2941895060098496,ns
+15,Yes,Treatment,Teak,Fipronil,Imidacloprid,0.08208687619943511,ns
+15,Yes,Treatment,Teak,Fipronil,P Mix,1,ns
+15,Yes,Treatment,Teak,Imidacloprid,P Mix,0.002587075716453082,**
+5,No ,Treatment,Teak,Control,Fipronil,1,ns
+5,No ,Treatment,Teak,Control,Imidacloprid,0.15111310527184102,ns
+5,No ,Treatment,Teak,Control,P Mix,2.454299997481425e-5,****
+5,No ,Treatment,Teak,Fipronil,Imidacloprid,0.02697970104452428,*
+5,No ,Treatment,Teak,Fipronil,P Mix,1.8334954359416334e-6,****
+5,No ,Treatment,Teak,Imidacloprid,P Mix,0.05576336399001233,ns
+5,Yes,Treatment,Teak,Control,Fipronil,1,ns
+5,Yes,Treatment,Teak,Control,Imidacloprid,0.0036983652867237015,**
+5,Yes,Treatment,Teak,Control,P Mix,0.24753090107487272,ns
+5,Yes,Treatment,Teak,Fipronil,Imidacloprid,0.01642523524247136,*
+5,Yes,Treatment,Teak,Fipronil,P Mix,0.6801633136404275,ns
+5,Yes,Treatment,Teak,Imidacloprid,P Mix,0.8392459078765941,ns

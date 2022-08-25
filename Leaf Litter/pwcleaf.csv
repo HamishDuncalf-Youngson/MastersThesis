@@ -1,0 +1,25 @@
+Temperature,Invertebrates,term,.y.,group1,group2,p.adj,p.adj.signif
+15,No,Treatment,Leafk,Control,Fipronil,1,ns
+15,No,Treatment,Leafk,Control,Imidacloprid,1,ns
+15,No,Treatment,Leafk,Control,P Mix,0.05007849237986655,ns
+15,No,Treatment,Leafk,Fipronil,Imidacloprid,1,ns
+15,No,Treatment,Leafk,Fipronil,P Mix,0.034001239836199425,*
+15,No,Treatment,Leafk,Imidacloprid,P Mix,0.018858871165239016,*
+15,Yes,Treatment,Leafk,Control,Fipronil,1.386058823618886e-4,***
+15,Yes,Treatment,Leafk,Control,Imidacloprid,3.203996287055153e-5,****
+15,Yes,Treatment,Leafk,Control,P Mix,0.03896529590073404,*
+15,Yes,Treatment,Leafk,Fipronil,Imidacloprid,1,ns
+15,Yes,Treatment,Leafk,Fipronil,P Mix,0.5565892975476189,ns
+15,Yes,Treatment,Leafk,Imidacloprid,P Mix,0.24215473356920242,ns
+5,No,Treatment,Leafk,Control,Fipronil,1,ns
+5,No,Treatment,Leafk,Control,Imidacloprid,1,ns
+5,No,Treatment,Leafk,Control,P Mix,1,ns
+5,No,Treatment,Leafk,Fipronil,Imidacloprid,1,ns
+5,No,Treatment,Leafk,Fipronil,P Mix,1,ns
+5,No,Treatment,Leafk,Imidacloprid,P Mix,1,ns
+5,Yes,Treatment,Leafk,Control,Fipronil,0.3640094781277808,ns
+5,Yes,Treatment,Leafk,Control,Imidacloprid,0.03627118167754938,*
+5,Yes,Treatment,Leafk,Control,P Mix,1,ns
+5,Yes,Treatment,Leafk,Fipronil,Imidacloprid,1,ns
+5,Yes,Treatment,Leafk,Fipronil,P Mix,1,ns
+5,Yes,Treatment,Leafk,Imidacloprid,P Mix,0.353151306691981,ns

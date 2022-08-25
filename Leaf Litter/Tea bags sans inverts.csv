@@ -1,0 +1,49 @@
+﻿Teabag ID ,Treatment,Temperature (ºC),Invertebrates ,Weight (g),Initial weight (g)
+49,Control,5,No ,1.074,1.9
+50,Control,5,No ,1.037,1.9
+51,Control,5,No ,0.999,1.9
+52,Control,5,No ,1.048,1.9
+53,Control,5,No ,1.046,1.9
+54,Control,5,No ,1.072,1.9
+55,Control,15,No ,0.995,1.9
+56,Control,15,No ,0.92,1.9
+57,Control,15,No ,0.98,1.9
+58,Control,15,No ,0.963,1.9
+59,Control,15,No ,0.934,1.9
+60,Control,15,No ,0.936,1.9
+61,Imidacloprid,15,No ,0.89,1.9
+62,Imidacloprid,15,No ,0.899,1.9
+63,Imidacloprid,15,No ,0.927,1.9
+64,Imidacloprid,15,No ,0.938,1.9
+65,Imidacloprid,15,No ,0.941,1.9
+66,Imidacloprid,15,No ,0.943,1.9
+67,Imidacloprid,5,No ,1.013,1.9
+68,Imidacloprid,5,No ,1.014,1.9
+69,Imidacloprid,5,No ,0.984,1.9
+70,Imidacloprid,5,No ,1.076,1.9
+71,Imidacloprid,5,No ,0.977,1.9
+72,Imidacloprid,5,No ,0.964,1.9
+73,Fipronil,15,No ,0.942,1.9
+74,Fipronil,15,No ,0.969,1.9
+75,Fipronil,15,No ,0.975,1.9
+76,Fipronil,15,No ,0.954,1.9
+77,Fipronil,15,No ,0.987,1.9
+78,Fipronil,15,No ,0.921,1.9
+79,Fipronil,5,No ,1.032,1.9
+80,Fipronil,5,No ,1.023,1.9
+81,Fipronil,5,No ,1.1,1.9
+82,Fipronil,5,No ,1.019,1.9
+83,Fipronil,5,No ,1.104,1.9
+84,Fipronil,5,No ,1.072,1.9
+85,P Mix,15,No ,0.839,1.9
+86,P Mix,15,No ,0.862,1.9
+87,P Mix,15,No ,0.876,1.9
+88,P Mix,15,No ,0.863,1.9
+89,P Mix,15,No ,0.875,1.9
+90,P Mix,15,No ,0.865,1.9
+91,P Mix,5,No ,0.931,1.9
+92,P Mix,5,No ,1.009,1.9
+93,P Mix,5,No ,0.903,1.9
+94,P Mix,5,No ,1.001,1.9
+95,P Mix,5,No ,1.01,1.9
+96,P Mix,5,No ,0.898,1.9

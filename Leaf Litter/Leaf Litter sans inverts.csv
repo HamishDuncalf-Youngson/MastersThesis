@@ -1,0 +1,49 @@
+﻿Leaf litter ID ,Treatment,Temperature (CºC),Invertebrates ,Weight (g),Initial Weight
+37,Control,15,No,0.769,1
+38,Control,15,No,0.803,1
+39,Control,15,No,0.757,1
+40,Control,15,No,0.83,1
+41,Control,15,No,0.787,1
+42,Control,15,No,0.778,1
+43,Control,5,No,0.937,1
+44,Control,5,No,0.911,1
+45,Control,5,No,0.885,1
+46,Control,5,No,0.861,1
+47,Control,5,No,0.955,1
+48,Control,5,No,0.918,1
+61,Imidacloprid,15,No,0.752,1
+62,Imidacloprid,15,No,0.784,1
+63,Imidacloprid,15,No,0.773,1
+64,Imidacloprid,15,No,0.716,1
+65,Imidacloprid,15,No,0.816,1
+66,Imidacloprid,15,No,0.828,1
+67,Imidacloprid,5,No,0.854,1
+68,Imidacloprid,5,No,0.939,1
+69,Imidacloprid,5,No,0.934,1
+70,Imidacloprid,5,No,0.855,1
+71,Imidacloprid,5,No,0.897,1
+72,Imidacloprid,5,No,0.851,1
+73,Fipronil,15,No,0.739,1
+74,Fipronil,15,No,0.827,1
+75,Fipronil,15,No,0.744,1
+76,Fipronil,15,No,0.784,1
+77,Fipronil,15,No,0.882,1
+78,Fipronil,15,No,0.733,1
+79,Fipronil,5,No,0.861,1
+80,Fipronil,5,No,0.93,1
+81,Fipronil,5,No,0.966,1
+82,Fipronil,5,No,0.941,1
+83,Fipronil,5,No,0.862,1
+84,Fipronil,5,No,0.873,1
+85,P Mix,15,No,0.764,1
+86,P Mix,15,No,0.971,1
+87,P Mix,15,No,0.863,1
+88,P Mix,15,No,0.882,1
+89,P Mix,15,No,0.853,1
+90,P Mix,15,No,0.892,1
+91,P Mix,5,No,0.976,1
+92,P Mix,5,No,0.814,1
+93,P Mix,5,No,0.825,1
+94,P Mix,5,No,0.942,1
+95,P Mix,5,No,0.963,1
+96,P Mix,5,No,0.875,1

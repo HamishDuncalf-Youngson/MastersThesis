@@ -1,0 +1,97 @@
+﻿Leaf litter ID ,Treatment,Temperature ,Invertebrates ,Weight,Initial Weight
+1,Control,5,Yes,0.822,1
+2,Control,5,Yes,0.846,1
+3,Control,5,Yes,0.867,1
+4,Control,5,Yes,0.897,1
+5,Control,5,Yes,0.8,1
+6,Control,5,Yes,0.845,1
+7,P Mix,5,Yes,0.924,1
+8,P Mix,5,Yes,0.805,1
+9,P Mix,5,Yes,0.86,1
+10,P Mix,5,Yes,0.845,1
+11,P Mix,5,Yes,0.912,1
+12,P Mix,5,Yes,0.904,1
+13,Control,15,Yes,0.76,1
+14,Control,15,Yes,0.643,1
+15,Control,15,Yes,0.712,1
+16,Control,15,Yes,0.683,1
+17,Control,15,Yes,0.706,1
+18,Control,15,Yes,0.643,1
+19,P Mix,15,Yes,0.781,1
+20,P Mix,15,Yes,0.704,1
+21,P Mix,15,Yes,0.772,1
+22,P Mix,15,Yes,0.737,1
+23,P Mix,15,Yes,0.824,1
+24,P Mix,15,Yes,0.772,1
+25,Imidacloprid,5,Yes,0.877,1
+26,Imidacloprid,5,Yes,0.866,1
+27,Imidacloprid,5,Yes,0.99,1
+28,Imidacloprid,5,Yes,0.946,1
+29,Imidacloprid,5,Yes,0.965,1
+30,Imidacloprid,5,Yes,0.988,1
+31,Imidacloprid,15,Yes,0.806,1
+32,Imidacloprid,15,Yes,0.737,1
+33,Imidacloprid,15,Yes,0.92,1
+34,Imidacloprid,15,Yes,0.93,1
+35,Imidacloprid,15,Yes,0.849,1
+36,Imidacloprid,15,Yes,0.728,1
+49,Fipronil,5,Yes,0.855,1
+50,Fipronil,5,Yes,0.92,1
+51,Fipronil,5,Yes,0.974,1
+52,Fipronil,5,Yes,0.869,1
+53,Fipronil,5,Yes,0.866,1
+54,Fipronil,5,Yes,0.962,1
+55,Fipronil,15,Yes,0.745,1
+56,Fipronil,15,Yes,0.746,1
+57,Fipronil,15,Yes,0.904,1
+58,Fipronil,15,Yes,0.782,1
+59,Fipronil,15,Yes,0.851,1
+60,Fipronil,15,Yes,0.864,1
+37,Control,15,No,0.769,1
+38,Control,15,No,0.803,1
+39,Control,15,No,0.757,1
+40,Control,15,No,0.83,1
+41,Control,15,No,0.787,1
+42,Control,15,No,0.778,1
+43,Control,5,No,0.937,1
+44,Control,5,No,0.911,1
+45,Control,5,No,0.885,1
+46,Control,5,No,0.861,1
+47,Control,5,No,0.955,1
+48,Control,5,No,0.918,1
+61,Imidacloprid,15,No,0.752,1
+62,Imidacloprid,15,No,0.784,1
+63,Imidacloprid,15,No,0.773,1
+64,Imidacloprid,15,No,0.716,1
+65,Imidacloprid,15,No,0.816,1
+66,Imidacloprid,15,No,0.828,1
+67,Imidacloprid,5,No,0.854,1
+68,Imidacloprid,5,No,0.939,1
+69,Imidacloprid,5,No,0.934,1
+70,Imidacloprid,5,No,0.855,1
+71,Imidacloprid,5,No,0.897,1
+72,Imidacloprid,5,No,0.851,1
+73,Fipronil,15,No,0.739,1
+74,Fipronil,15,No,0.827,1
+75,Fipronil,15,No,0.744,1
+76,Fipronil,15,No,0.784,1
+77,Fipronil,15,No,0.882,1
+78,Fipronil,15,No,0.733,1
+79,Fipronil,5,No,0.861,1
+80,Fipronil,5,No,0.93,1
+81,Fipronil,5,No,0.966,1
+82,Fipronil,5,No,0.941,1
+83,Fipronil,5,No,0.862,1
+84,Fipronil,5,No,0.873,1
+85,P Mix,15,No,0.764,1
+86,P Mix,15,No,0.971,1
+87,P Mix,15,No,0.863,1
+88,P Mix,15,No,0.882,1
+89,P Mix,15,No,0.853,1
+90,P Mix,15,No,0.892,1
+91,P Mix,5,No,0.976,1
+92,P Mix,5,No,0.814,1
+93,P Mix,5,No,0.825,1
+94,P Mix,5,No,0.942,1
+95,P Mix,5,No,0.963,1
+96,P Mix,5,No,0.875,1
